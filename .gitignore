@@ -1,2 +1,10 @@
+# Log files
+*.log
 
-AnsibleProjectInitializer  README.md
+# Secret credentials
+credentials.json
+
+# IDE settings folders
+.idea/
+.vscode/
+
