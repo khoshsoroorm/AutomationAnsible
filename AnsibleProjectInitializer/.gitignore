@@ -1,0 +1,10 @@
+# Log files
+*.log
+
+# Secret credentials
+credentials.json
+
+# IDE settings folders
+.idea/
+.vscode/
+
